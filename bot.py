@@ -178,4 +178,4 @@ async def leaderboard(ctx, mode="top"):
     await ctx.send(embed=embed)
 
 
-bot.run("PASTE_YOUR_DISCORD_TOKEN_HERE")
+bot.run(MTQ0NjMwNDY1MzExMjUxMjY5Mg.GTV1q8.lUf1TFeNB4GaHvb5ICxbWqB2WQ4Vy1qQiUzhYk)
